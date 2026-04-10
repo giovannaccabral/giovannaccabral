@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
-</picture>
+![snake gif](https://github.com/giovannaccabral/giovannaccabral/blob/output/github-contribution-grid-snake.svg)
