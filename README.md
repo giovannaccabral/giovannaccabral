@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=header"/>
 
 <div align="center">
-  <img width="250px" height="250" alt="Image" src="https://imgur.com/Pbf6K7F.png"/>
+  <img width="200px" height="200px" alt="Image" src="https://imgur.com/Pbf6K7F.png"/>
 </div>
 
   
@@ -21,13 +21,38 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 </div>
 
 <br>
+<br>
 
 
  ### 🚀 Currently
  - Cursando o 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas.
  - Estudando HTML5, CSS3, C++, SQL, Python.
 
- ### 🌐 Socials:
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
    <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
     <img
       alt="LinkedIn"
@@ -51,8 +76,14 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
       style="height: 23px;"
     />
   </a>
-
+</p>
+</div>
 <br>
+
+</details>
+
+##
+
 <br>
 
 <picture>
@@ -60,6 +91,8 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovannaccabral/giovannaccabral/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovannaccabral/giovannaccabral/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=footer"/>
 
