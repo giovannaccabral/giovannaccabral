@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=header"/>
 
-<div align="center">
 <div align="center">
 <img width="200px" height="200px" alt="Image" src="https://github.com/user-attachments/assets/7253671c-f7d1-478e-83af-b037c68acd74" />
 </div>
@@ -59,7 +58,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
     <img
       alt="LinkedIn"
       title="Connect with me on LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1"
+      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4"
       style="height: 23px;"
     />
   </a>
@@ -67,14 +66,14 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
     <img
       alt="Instagram"
       title="Connect with me on Instagram"
-      src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1"
+      src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4"
       style="height: 23px;"
     />
   </a>
   <a href="mailto:cbralgiovanna@gmail.com" style="text-decoration: none;">
     <img 
      alt="Gmail" 
-     title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1"
+     title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"
       style="height: 23px;"
     />
   </a>
@@ -96,5 +95,5 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=footer"/>
 
