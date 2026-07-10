@@ -1,5 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=header"/>
 
+<div align="center">
+  <img width="250px" height="250" alt="Image" src="https://imgur.com/Pbf6K7F.png"/>
+</div>
+
+  
 ### 👋 Hi there
 Sou <b>Giovanna Cabral</b>, estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
 Atualmente, estou aprendendo novas linguagens de programação e desenvolvendo projetos para me preparar para ingressar futuramente na área de tecnologia.<br>
@@ -16,6 +21,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 </div>
 
 <br>
+
 
  ### 🚀 Currently
  - Cursando o 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas.
