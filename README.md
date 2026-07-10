@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=header"/>
 
 <div align="center">
-<img width="200" height="175" alt="Image" src="https://github.com/user-attachments/assets/5cd07d61-1014-451b-9377-876bd696a392" />
+<img width="220" height="175" alt="Image" src="https://github.com/user-attachments/assets/5cd07d61-1014-451b-9377-876bd696a392" />
 </div>
 </div>
 
@@ -61,14 +61,14 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaÃ§Ã
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4"
       style="height: 23px;"
     />
-  </a>
-  <a href="https://instagram.com/gii.ic_" style="text-decoration: none;">
+  </a><a href="https://instagram.com/gii.ic_" style="text-decoration: none;">
     <img
       alt="Instagram"
       title="Connect with me on Instagram"
       src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4"
       style="height: 23px;"
     />
+    
   </a>
   <a href="mailto:cbralgiovanna@gmail.com" style="text-decoration: none;">
     <img 
