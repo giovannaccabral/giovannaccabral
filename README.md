@@ -55,3 +55,5 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovannaccabral/giovannaccabral/output/pacman-contribution-graph.svg">
 </picture>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=footer"/>
+
