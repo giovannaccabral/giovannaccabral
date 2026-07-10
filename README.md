@@ -1,67 +1,54 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FFB6C1&customColorList=33&section=header"/>
 
-<div align="center">             
- 
-<img width="10%" height="10%" src="https://i.pinimg.com/736x/a2/41/64/a24164012312a5316459dbc1b1e7abcd.jpg"/>
-</div>
+### 👋 Hi there
+Sou <b>Giovanna Cabral</b>, estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
+Atualmente, estou aprendendo novas linguagens de programação e desenvolvendo projetos para me preparar para ingressar futuramente na área de tecnologia.<br>
+Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
+<br>
+
+### 💻 Stacks
 <div align="center">
-  <samp>
-      <br>
-   I'm <b>Giovanna Cabral</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=ETEC+VAV;I'm+a+student+of+Systems+Development" alt="Typing SVG"/>
-</div>
-
-
-<div align="center" width="100%">
-  <div align="center">
-  <img src="https://img.shields.io/badge/gi_♡-black" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=giovannaccabral&rank_icon=github&show_icons=true&theme=radical&count_private=true">
- 
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovannaccabral&theme=radical"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
 
 <br>
+
+ ### 🚀 Currently
+ - Cursando o 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas.
+ - Estudando HTML5, CSS3, C++, SQL, Python.
+
+ ### 🌐 Socials:
+   <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
+    <img
+      alt="LinkedIn"
+      title="Connect with me on LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1"
+      style="height: 23px;"
+    />
+  </a>
+  <a href="https://instagram.com/gii.ic_" style="text-decoration: none;">
+    <img
+      alt="Instagram"
+      title="Connect with me on Instagram"
+      src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1"
+      style="height: 23px;"
+    />
+  </a>
+  <a href="mailto:cbralgiovanna@gmail.com" style="text-decoration: none;">
+    <img 
+     alt="Gmail" 
+     title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1"
+      style="height: 23px;"
+    />
+  </a>
+
 <br>
-      
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-
-  
-</div>
-</div>
-
-<br>
 <br>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<div class=>
-[![AI Isn't Replacing Developers](https://ytcards.demolab.com/?id=7QKcphdM5Cw&title=AI+Isn%27t+Replacing+Developers&lang=en&timestamp=1783013436&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2123 "AI Isn't Replacing Developers")](https://www.youtube.com/watch?v=7QKcphdM5Cw)
-[![Local AI Coding is Finally Good Enough](https://ytcards.demolab.com/?id=zPqcS5AvQvQ&title=Local+AI+Coding+is+Finally+Good+Enough&lang=en&timestamp=1781818817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Local AI Coding is Finally Good Enough")](https://www.youtube.com/watch?v=zPqcS5AvQvQ)
-[![Coding with Fable 5 is actually insane.](https://ytcards.demolab.com/?id=2kObwHxHILQ&title=Coding+with+Fable+5+is+actually+insane.&lang=en&timestamp=1781280029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1798 "Coding with Fable 5 is actually insane.")](https://www.youtube.com/watch?v=2kObwHxHILQ)
-[![The Mythos Situation is Crazy](https://ytcards.demolab.com/?id=UYbZo6UuMMY&title=The+Mythos+Situation+is+Crazy&lang=en&timestamp=1781103622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929 "The Mythos Situation is Crazy")](https://www.youtube.com/watch?v=UYbZo6UuMMY)
-[![I Can't Believe Rust Is Replacing Zig, Too](https://ytcards.demolab.com/?id=2AqwehBu84w&title=I+Can%27t+Believe+Rust+Is+Replacing+Zig%2C+Too&lang=en&timestamp=1779472800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=976 "I Can't Believe Rust Is Replacing Zig, Too")](https://www.youtube.com/watch?v=2AqwehBu84w)
-[![Wait, I thought Java was dead?](https://ytcards.demolab.com/?id=HhPs2sKlQYg&title=Wait%2C+I+thought+Java+was+dead%3F&lang=en&timestamp=1777649409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1725 "Wait, I thought Java was dead?")](https://www.youtube.com/watch?v=HhPs2sKlQYg)
-<!-- END YOUTUBE-CARDS -->
-
-
-
-
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovannaccabral/giovannaccabral/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovannaccabral/giovannaccabral/output/pacman-contribution-graph.svg">
