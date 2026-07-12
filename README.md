@@ -8,7 +8,6 @@
   
 ### 👋 Hi there
 Sou <b>Giovanna Cabral</b>, estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
-Atualmente, estou aprendendo novas linguagens de programação e desenvolvendo projetos para me preparar para ingressar futuramente na área de tecnologia.<br>
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
 <br>
