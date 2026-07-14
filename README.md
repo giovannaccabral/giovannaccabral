@@ -7,7 +7,7 @@
 
   
 ### 👋 Hi there
-Sou <b>Giovanna Cabral</b>, estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
+Sou <b>Giovanna Cabral</b>, estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
 <br>
@@ -19,14 +19,6 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
-
-<br>
-<br>
-
-
- ### 🚀 Currently
- - Cursando o 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas.
- - Estudando HTML5, CSS3, C++, SQL, Python.
 
 <br>
 <br>
