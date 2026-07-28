@@ -6,13 +6,14 @@ Sou <b>Giovanna Cabral</b>, estudante do 1º ano do Ensino Médio Técnico em De
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
 <br>
+<br>
 
->"E do outro lado do mar tem liberdade, eu sempre acreditei nisso"
+>"E do outro lado do mar tem liberdade, eu sempre acreditei nisso" Eren
 
 <br>
 <br>
 
-### 💻 Stacks
+## 💻 Stacks
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -21,20 +22,9 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 </div>
 
 <br>
-<hr>
 <br>
 
-<div align="center">
-  <samp>
-    <b>
-     ☆ Contact me: ☆
-    </b>
-  </samp>
-
-  <br>
-  <br>
-
-
+## Social
    <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
     <img
       alt="LinkedIn"
@@ -60,10 +50,6 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
   </a>
 
 <br>
-<hr>
-<br>
-
-
 <br>
 
 <picture>
