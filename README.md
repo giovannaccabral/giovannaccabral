@@ -1,11 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=header"/>
 
->"E do outro lado do mar tem liberdade, eu sempre acreditei nisso"
 
-  
 ### 👋 Hi there
 Sou <b>Giovanna Cabral</b>, estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
+
+<br>
+
+>"E do outro lado do mar tem liberdade, eu sempre acreditei nisso"
 
 <br>
 
@@ -18,20 +20,6 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 </div>
 
 <br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
 
 <div align="center">
   <samp>
@@ -39,6 +27,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
       Contact me:
     </b>
   </samp>
+
   <br>
   <br>
 
@@ -65,13 +54,8 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
       style="height: 23px;"
     />
   </a>
-</p>
-</div>
 <br>
 
-</details>
-
-##
 
 <br>
 
