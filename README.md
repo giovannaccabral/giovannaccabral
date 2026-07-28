@@ -8,7 +8,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 <br>
 <br>
 
->"E do outro lado do mar tem liberdade, eu sempre acreditei nisso" Eren
+>"E do outro lado do mar tem liberdade, eu sempre acreditei nisso" — Eren
 
 <br>
 <br>
@@ -24,7 +24,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 <br>
 <br>
 
-## Social
+## 🌐 Socials
    <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
     <img
       alt="LinkedIn"
