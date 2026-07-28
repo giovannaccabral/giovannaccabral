@@ -25,6 +25,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaÃ§Ã
 <br>
 
 ## ğŸŒ Socials
+<div style="gap: 10px;">
    <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
     <img
       alt="LinkedIn"
@@ -48,6 +49,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaÃ§Ã
       style="height: 23px;"
     />
   </a>
+</div>
 
 <br>
 <br>
