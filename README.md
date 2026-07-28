@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=header"/>
 
-<div align="center">
-<img width="220" height="175" alt="Image" src="https://github.com/user-attachments/assets/5cd07d61-1014-451b-9377-876bd696a392" />
-</div>
-</div>
+>"E do outro lado do mar tem liberdade, eu sempre acreditei nisso"
 
   
 ### 👋 Hi there
