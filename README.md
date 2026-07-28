@@ -20,16 +20,19 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 </div>
 
 <br>
+<hr>
+<br>
 
 <div align="center">
   <samp>
     <b>
-      Contact me:
+     ☆ Contact me: ☆
     </b>
   </samp>
 
   <br>
   <br>
+
 
    <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
     <img
