@@ -6,11 +6,9 @@ Sou <b>Giovanna Cabral</b>, estudante do 1º ano do Ensino Médio Técnico em De
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
 <br>
-<br>
 
 >"E do outro lado do mar tem liberdade, eu sempre acreditei nisso" — Eren
 
-<br>
 <br>
 
 ## 💻 Tech Stacks
@@ -21,7 +19,6 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
 
-<br>
 <br>
 
 ## 🌐 Socials
