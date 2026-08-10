@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0284C7&customColorList=33&section=header"/>
 
 
-## 👋 Hi there
-Sou <b>Giovanna Cabral</b>, estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissonal. <br>
+## Sobre mim
+Sou estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissional. <br>
 Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
 
 <br>
@@ -12,41 +12,14 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 <br>
 
 ## 💻 Tech Stacks
-<div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%236cc24a.svg?style=for-the-badge&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 <br>
 
 ## 🌐 Socials
-<div style="gap: 10px;">
-   <a href="https://www.linkedin.com/in/usuario/" style="text-decoration: none;">
-    <img
-      alt="LinkedIn"
-      title="Connect with me on LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4"
-      style="height: 23px;"
-    />
-  </a><a href="https://instagram.com/gii.ic_" style="text-decoration: none;">
-    <img
-      alt="Instagram"
-      title="Connect with me on Instagram"
-      src="https://custom-icon-badges.demolab.com/badge/-Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4"
-      style="height: 23px;"
-    />
-    
-  </a>
-  <a href="mailto:cbralgiovanna@gmail.com" style="text-decoration: none;">
-    <img 
-     alt="Gmail" 
-     title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"
-      style="height: 23px;"
-    />
-  </a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gii.ic_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:cbralgiovanna@gmail.com) 
+
 
 <br>
 <br>
@@ -59,5 +32,5 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF69B4&customColorList=33&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0284C7&customColorList=33&section=footer"/>
 
