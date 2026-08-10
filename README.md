@@ -2,8 +2,14 @@
 
 
 ## Sobre mim
-Sou estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissional. <br>
-Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução.
+Sou estudante do 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e desenvolver projetos para meu crescimento profissional. 
+
+<br>
+
+Estou utilizando o GitHub para publicar projetos da escola, praticar programação e acompanhar minha evolução. 
+
+
+
 
 <br>
 
@@ -12,7 +18,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programaç�
 <br>
 
 ## 💻 Tech Stacks
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%236cc24a.svg?style=for-the-badge&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%236cc24a.svg?style=for-the-badge&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 <br>
 
