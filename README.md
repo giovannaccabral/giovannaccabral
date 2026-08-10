@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0284C7&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=D8A7E8&customColorList=33&section=header"/>
 
 
 ## Sobre mim
@@ -18,7 +18,7 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
 
 ## üåê Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gii.ic_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kibum.png)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi) [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:cbralgiovanna@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gii.ic_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yaah._com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanna) [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](cbralgiovanna@gmail.com) 
 
 
 <br>
@@ -32,5 +32,5 @@ Estou utilizando o GitHub para publicar projetos da escola, praticar programa√ß√
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0284C7&customColorList=33&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=D8A7E8&customColorList=33&section=footer"/>
 
